@@ -1,0 +1,5 @@
+'''
+1. 現有一字串 so = 'nahxatoamktbkoydvxoqbkkhvmadbu'，
+   請找出在字串中出現最多次的字元並統計他的次數，
+   並以格式 "char:%s count:%d" 輸出
+'''
